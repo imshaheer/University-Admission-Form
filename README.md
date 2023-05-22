@@ -20,7 +20,7 @@ Whether you are a university administrator, web developer, or designer, this Uni
 
 Acknowledgment:
 
-This project was developed as a part of the first semester curriculum. Special thanks to the professor guidance and support.
+This project was developed as a part of the fifth semester curriculum. Special thanks to the Professor for guidance and support.
 
 Contributions and feedback are welcome! If you have any suggestions or improvements, feel free to submit a pull request or open an issue on the GitHub repository.
 
